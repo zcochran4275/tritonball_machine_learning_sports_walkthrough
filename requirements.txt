@@ -12,3 +12,6 @@ torch
 torch-geometric
 networkx
 tqdm
+xgboost
+py7zr
+datasets
