@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+statsbombpy
+pybaseball
+mplsoccer
+pygam
+torch
+torch-geometric
+networkx
+tqdm
